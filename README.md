@@ -6,7 +6,7 @@ This project aims to monitor website performance, accessibility, and availabilit
 
 ## 📌 Project Architecture
 
-![Architecture]()![Uploading image.png…]()
+![Architecture]()![image](https://github.com/user-attachments/assets/bc338cda-8f3e-41ae-9523-ef873ddeb428)
 
 ---
 
@@ -46,7 +46,7 @@ These metrics are useful for alerting and uptime dashboards.
 
 ## 📺 Grafana Dashboard
 
-![Dashboard](./assets/d.png)
+![Dashboard](![Uploading image.png…]())
 
 The metrics are visualized in a **Grafana dashboard**, showing real-time data and historical trends for both Lighthouse audits and Blackbox checks.
 
