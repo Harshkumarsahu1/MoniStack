@@ -6,7 +6,7 @@ This project aims to monitor website performance, accessibility, and availabilit
 
 ## 📌 Project Architecture
 
-![Uploading ChatGPT Image May 31, 2025, 01_55_43 PM.png…]()
+![Architecture]()![Uploading image.png…]()
 
 ---
 
