@@ -6,7 +6,7 @@ This project aims to monitor website performance, accessibility, and availabilit
 
 ## 📌 Project Architecture
 
-![Architecture](./assets/a.png)
+![Architecture](![ChatGPT Image May 31, 2025, 01_55_43 PM](https://github.com/user-attachments/assets/6cd3950c-9ffb-4d59-8c7b-ab28d6d1df99))
 
 ---
 
