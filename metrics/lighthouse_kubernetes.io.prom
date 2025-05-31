@@ -1,0 +1,11 @@
+lighthouse_performance{site="https://kubernetes.io"} 42
+lighthouse_accessibility{site="https://kubernetes.io"} 78
+lighthouse_best_practices{site="https://kubernetes.io"} 100
+lighthouse_seo{site="https://kubernetes.io"} 85
+lighthouse_pwa{site="https://kubernetes.io"} 63
+lighthouse_fcp{site="https://kubernetes.io"} 4568.927000000001
+lighthouse_si{site="https://kubernetes.io"} 8198.321958116236
+lighthouse_tbt{site="https://kubernetes.io"} 722
+lighthouse_lcp{site="https://kubernetes.io"} 6806.594499999999
+lighthouse_tti{site="https://kubernetes.io"} 12575.616750000001
+lighthouse_cls{site="https://kubernetes.io"} 0.0036629749181705117

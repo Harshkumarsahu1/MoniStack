@@ -1,0 +1,11 @@
+lighthouse_performance{site="https://stackoverflow.com"} 35
+lighthouse_accessibility{site="https://stackoverflow.com"} 83
+lighthouse_best_practices{site="https://stackoverflow.com"} 64
+lighthouse_seo{site="https://stackoverflow.com"} 81
+lighthouse_pwa{site="https://stackoverflow.com"} 38
+lighthouse_fcp{site="https://stackoverflow.com"} 3506.56
+lighthouse_si{site="https://stackoverflow.com"} 7716.726230546257
+lighthouse_tbt{site="https://stackoverflow.com"} 1555.5
+lighthouse_lcp{site="https://stackoverflow.com"} 13111.252499999997
+lighthouse_tti{site="https://stackoverflow.com"} 14361.7805
+lighthouse_cls{site="https://stackoverflow.com"} 0

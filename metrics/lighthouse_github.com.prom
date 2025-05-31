@@ -1,0 +1,11 @@
+lighthouse_performance{site="https://github.com"} 26
+lighthouse_accessibility{site="https://github.com"} 97
+lighthouse_best_practices{site="https://github.com"} 95
+lighthouse_seo{site="https://github.com"} 85
+lighthouse_pwa{site="https://github.com"} 63
+lighthouse_fcp{site="https://github.com"} 5237.076
+lighthouse_si{site="https://github.com"} 14686.188440836526
+lighthouse_tbt{site="https://github.com"} 14090
+lighthouse_lcp{site="https://github.com"} 19431.076
+lighthouse_tti{site="https://github.com"} 38868.076
+lighthouse_cls{site="https://github.com"} 0

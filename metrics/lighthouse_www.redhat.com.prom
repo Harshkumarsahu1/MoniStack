@@ -1,0 +1,11 @@
+lighthouse_performance{site="https://www.redhat.com"} 34
+lighthouse_accessibility{site="https://www.redhat.com"} 88
+lighthouse_best_practices{site="https://www.redhat.com"} 86
+lighthouse_seo{site="https://www.redhat.com"} 86
+lighthouse_pwa{site="https://www.redhat.com"} 38
+lighthouse_fcp{site="https://www.redhat.com"} 1819.8575000000005
+lighthouse_si{site="https://www.redhat.com"} 13116.012508817555
+lighthouse_tbt{site="https://www.redhat.com"} 14294.131500000005
+lighthouse_lcp{site="https://www.redhat.com"} 9117.708750000002
+lighthouse_tti{site="https://www.redhat.com"} 26965.179500000006
+lighthouse_cls{site="https://www.redhat.com"} 0.0015007477902171619
