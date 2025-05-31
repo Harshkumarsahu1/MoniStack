@@ -6,7 +6,8 @@ This project aims to monitor website performance, accessibility, and availabilit
 
 ## 📌 Project Architecture
 
-![Architecture]()![image](https://github.com/user-attachments/assets/bc338cda-8f3e-41ae-9523-ef873ddeb428)
+![Architecture]()![image]![image](https://github.com/user-attachments/assets/7d9a1d34-fe2d-4621-8769-5ae2b5d91d91)
+
 
 ---
 
