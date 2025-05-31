@@ -47,7 +47,7 @@ These metrics are useful for alerting and uptime dashboards.
 
 ## 📺 Grafana Dashboard
 
-![Dashboard](![Uploading image.png…]())
+![Dashboard](![image](https://github.com/user-attachments/assets/d7fca51c-3d79-4454-9904-72a49c66ce33))
 
 The metrics are visualized in a **Grafana dashboard**, showing real-time data and historical trends for both Lighthouse audits and Blackbox checks.
 
